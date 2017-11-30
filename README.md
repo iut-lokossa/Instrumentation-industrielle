@@ -5,3 +5,6 @@ Le présent cours introduit sommairement les capteurs en instrumentation industr
 
 [La théorie des capteurs et applications](./blob/master/Les%20capteurs%20-%20Monographie.pdf)
 
+
+### Lokossa Institute of Technology
+@LIT
